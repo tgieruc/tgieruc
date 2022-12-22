@@ -3,7 +3,6 @@
 * :robot: I'm a **Robotics** & **Data Science** MSc student at [EPFL](https://epfl.ch)
 * :rocket: I'm passionate about UAVs, Deep Learning, Natural Speech Processing and Computer Vision
 *  :ramen: Outside the world of tech, I love cooking, [digital art](https://www.instagram.com/drawing.algorithms/) and film photography :camera:
-*  :telescope: I am currently looking for an internship in Robotics, Deep Learning or Data Science, anywhere in the world :earth_africa:
 - 📫 How to reach me: [Email](mailto:theo.gieruc@gmail.com), [LinkedIn](https://www.linkedin.com/in/theo-gieruc/)
 
 
