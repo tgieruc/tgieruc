@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * :robot: I'm a **Robotics** & **Data Science** MSc student at [EPFL](https://epfl.ch)
-* :rocket: I'm passionate about UAVs, Deep Learning, Natural Speech Processing and Computer Vision
+* :rocket: I'm passionate about Mobile Robots, Computer Vision and Neural Rendering 
 *  :ramen: Outside the world of tech, I love cooking, [digital art](https://www.instagram.com/drawing.algorithms/) and film photography :camera:
 - 📫 How to reach me: [Email](mailto:theo.gieruc@gmail.com), [LinkedIn](https://www.linkedin.com/in/theo-gieruc/)
 
