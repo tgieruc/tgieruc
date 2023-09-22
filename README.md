@@ -5,7 +5,7 @@
 * 👨‍🔬 I am currently working on Neural Radiance Fields and Semantic Occpancy Prediction
 *  :ramen: Outside the world of tech, I love cooking, [digital art](https://www.instagram.com/drawing.algorithms/) and film photography :camera:
 
- 📫 How to reach me: [Email](mailto:theo.gieruc@gmail.com), [LinkedIn](https://www.linkedin.com/in/theo-gieruc/)
+📫 How to reach me: [Email](mailto:theo.gieruc@gmail.com), [LinkedIn](https://www.linkedin.com/in/theo-gieruc/)
 
 
 <!--
