@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 * :robot: I'm a **Robotics** & **Data Science** MSc student at [EPFL](https://epfl.ch)
-* :rocket: I'm passionate about Mobile Robots, Computer Vision and Neural Rendering 
+* :rocket: I'm passionate about Mobile Robots and AI
+* 👨‍🔬 I am currently working on Neural Radiance Fields and Semantic Occpancy Prediction
 *  :ramen: Outside the world of tech, I love cooking, [digital art](https://www.instagram.com/drawing.algorithms/) and film photography :camera:
 - 📫 How to reach me: [Email](mailto:theo.gieruc@gmail.com), [LinkedIn](https://www.linkedin.com/in/theo-gieruc/)
 
