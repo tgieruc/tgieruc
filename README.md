@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour👋
 
 * :robot: I'm a **Robotics** & **Data Science** MSc student at [EPFL](https://epfl.ch)
 * :rocket: I'm passionate about Mobile Robots and AI
